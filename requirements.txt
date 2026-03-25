@@ -1,6 +1,7 @@
 streamlit>=1.41.0
 pandas>=2.2.0
 plotly>=5.20.0
+psycopg2-binary
 mysql-connector-python>=8.3.0
 python-dotenv>=1.0.1
 requests>=2.31.0
