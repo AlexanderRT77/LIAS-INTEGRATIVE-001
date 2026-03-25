@@ -1,0 +1,5 @@
+Critério de Avaliação,O que o Médico Deve Procurar (Nuances),Exemplo Prático
+Fundamentação Científica,A resposta cita estudos recentes? Baseia-se em mecanismos fisiopatológicos corretos?,Claude 3.5 cita a diretriz da SBC 2025; Manus apenas sugere a conduta.
+Precisão Terminológica,O uso de termos médicos é exato e atualizado (ex: CID-11)?,"DeepSeek R1 usa ""Insuficiência Cardíaca Fração de Ejeção Preservada""; Perplexity usa termo vago."
+Relevância Clínica e Contexto,"A IA levou em conta a idade, comorbidades e medicamentos atuais do paciente específicos do caso?","Grok sugere medicação X, mas ignora a interação medicamentosa já listada no histórico do paciente."
+Adesão a Protocolos,A recomendação segue os protocolos institucionais ou diretrizes nacionais/internacionais?,Chat.Z.Ai sugere conduta off-label como primeira linha; Claude 3.5 segue o protocolo de sepse.

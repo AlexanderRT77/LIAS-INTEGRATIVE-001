@@ -1,0 +1,7 @@
+Modelo de IA,Perfil Clínico Previsto (Fortalezas),Limitações Esperadas (Vieses/Lacunas),Insights de Uso Recomendado
+Claude 3.5 Sonnet,"Excelente em raciocínio complexo, síntese de múltiplos sintomas e adesão rigorosa a protocolos.",Pode ser excessivamente cauteloso (falso-negativo para condutas agressivas).,Raciocínio Diagnóstico Principal.
+DeepSeek R1,Forte em terminologia técnica e detalhes fisiopatológicos profundos.,Menor fluência em português e contextualização de dados do paciente.,Verificação de Termos e Mecanismos.
+Manus,Agilidade em diagnósticos diferenciais comuns.,Tende a alucinar mais em casos raros ou com dados conflitantes.,Triagem Rápida.
+Grok,Integração rápida com notícias médicas e surtos epidemiológicos atuais.,Vieses de popularidade; fundamentação científica menos robusta.,Notícias e Epidemiologia Local.
+Perplexity,Excelente para encontrar e citar bibliografia científica diretamente nas respostas.,Dificuldade em sintetizar e aplicar a evidência ao contexto do paciente.,Busca de Evidências (PubMed).
+Chat.Z.Ai,Boa contextualização de dados locais brasileiros.,Base de conhecimento menor que Claude/DeepSeek.,Contextualização Regional/Social.
